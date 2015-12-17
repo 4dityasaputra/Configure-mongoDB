@@ -1,5 +1,4 @@
-# Configure & populate data (mongoDB)
->If you don't use systemd:<br/>
+# If you don't use systemd:
 $ mkdir data<br/>
 $ ls -la<br/>
 total ..<br/>
